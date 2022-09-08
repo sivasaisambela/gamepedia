@@ -13,21 +13,21 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Areas\Customer\Views\Home\_ViewImports.cshtml"
+#line 1 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Areas\Customer\Views\_ViewImports.cshtml"
 using PlayStationStore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Areas\Customer\Views\Home\_ViewImports.cshtml"
+#line 2 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Areas\Customer\Views\_ViewImports.cshtml"
 using PlayStationStore.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Areas/Customer/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b8415912e0439c3803d17b4c00ae5599a4f8f904", @"/Areas/Customer/Views/Home/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b8415912e0439c3803d17b4c00ae5599a4f8f904", @"/Areas/Customer/Views/_ViewImports.cshtml")]
     public class Areas_Customer_Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

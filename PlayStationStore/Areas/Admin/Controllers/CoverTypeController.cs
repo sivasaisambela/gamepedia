@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PlayStationStore.Controllers
 {
-    //[Area("CoverType")]
+    [Area("Admin")]
     public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace PlayStationStore.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

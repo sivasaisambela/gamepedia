@@ -12,7 +12,22 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Views\Shared\_ViewImports.cshtml"
+using PlayStationStore;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\sivasaisambela\source\repos\.NET CORE WEB API\PlayStationStore\PlayStationStore\Views\Shared\_ViewImports.cshtml"
+using PlayStationStore.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ffcff75c4ac533c8428acbff09386728d050d4c8", @"/Views/Shared/Error.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b8415912e0439c3803d17b4c00ae5599a4f8f904", @"/Views/Shared/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<PlayStationStore.Models.ErrorViewModel>
     {
         #pragma warning disable 1998
